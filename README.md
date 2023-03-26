@@ -1,4 +1,4 @@
-IMPORTANTE: ***Você precisa ter o Docker instalado em sua máquina***
+IMPORTANTE: ***Você precisa ter o Docker instalado em sua máquina*** - (Para instalar, basta acessar o link: https://www.docker.com/products/docker-desktop/)
 
 IMPORTANTE: ***Não esquecer de fazer o fork do repositório para sua conta antes de iniciar o desenvolvimento***
 # Executando o projeto
