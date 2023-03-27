@@ -9,3 +9,5 @@ A execução dessas atividades gera a montagem do container com a interface.
 3. Executar o comando `docker compose up` para subir os containers.
 
 O sistema estará disponível em http://localhost:3000/items.
+
+Link docker hub: https://hub.docker.com/repository/docker/liim4/webservicesimple/general
